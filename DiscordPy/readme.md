@@ -1,0 +1,1 @@
+Bot token is already reset by the time this was commited
